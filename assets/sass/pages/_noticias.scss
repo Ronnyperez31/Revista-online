@@ -1,0 +1,16 @@
+.noticia{
+    padding: 0 1rem;
+    margin: 0;
+    &__titulo{
+        font-size: $font-xlarge;
+    }
+    &__img{
+        width: 100%;
+        height: auto;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    &__parrafo{
+        font-size: $font-small2;
+    }
+}

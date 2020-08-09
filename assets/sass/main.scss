@@ -1,0 +1,21 @@
+//* Abstracts
+@import "abstracts/variables";
+@import "abstracts/mixins";
+
+//* Vendor
+
+//* Base
+@import "base/tipografia";
+
+//* Components
+@import "components/aside";
+
+//* Layouts
+@import "layout/grilla";
+@import "layout/nav";
+@import "layout/body";
+@import "layout/footer";
+
+//*pages
+@import "pages/noticias";
+@import "pages/newsletter";

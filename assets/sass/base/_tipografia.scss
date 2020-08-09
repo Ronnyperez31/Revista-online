@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+//* Fuentes
+$roboto: 'Roboto', sans-serif;
+$roboto-light: 300;
+$roboto-regular: 400;
+$roboto-bold: 700;
+
+//*Fuente principal
+$fuente-principal: $roboto;
+$fuente-light: $roboto-light;
+$fuente-regular: $roboto-regular;
+$fuente-bold: $roboto-bold;
+
+//*Tamaños
+$font-small: 12px;
+$font-small2: 14px;
+$font-medium: 16px;
+$font-large: 18px;
+$font-xlarge: 21px;
+$font-xxlarge: 26px;
+$font-xlarge2: 35px;

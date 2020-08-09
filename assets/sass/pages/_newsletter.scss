@@ -1,0 +1,21 @@
+.newsletter{
+    text-align: center;
+    margin-top: 1.5rem;
+    padding: 2rem;
+    background-color: $bg-newsletter;
+
+    &__titulo{
+        font-size: $font-xlarge;
+        font-weight: $fuente-bold;
+    }
+    &__parrafo{
+        font-size: $font-small2;
+    }
+    &__input{
+        border: none;
+    }
+    &__boton{
+        color: $white;
+        background-color: $bg-botones;
+    }
+}
